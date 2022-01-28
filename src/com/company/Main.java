@@ -6,8 +6,8 @@ public class Main {
 //	the basic structure
         CarBasics car =new CarBasics();
         car.color="blue";
-        car.number="88";
-        car.engine="6999cc";
+        car.number="8658";
+        car.engine="699954cc";
         car.door="4";
         System.out.println(car.color);
     }
