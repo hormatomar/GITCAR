@@ -7,7 +7,7 @@ public class Main {
         CarBasics car =new CarBasics();
 <<<<<<< Updated upstream
         car.color="blue";
-        car.number="8658";
+        car.number="865ds8";
         car.engine="699954cc";
         car.door="4";
 =======
